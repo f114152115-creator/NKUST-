@@ -256,7 +256,7 @@ class3：保留原 spacing（與其訓練一致）
 
 final 以 class12 預測為底，若 class3 分支預測為 1 的 voxel，覆蓋成 label=3（class3 優先覆寫）
 
-github連結：
+github連結：https://github.com/f114152115-creator/NKUST-/tree/main
 
 ---
 
