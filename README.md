@@ -78,7 +78,7 @@ Class 3(鈣化)：體積最小，且高度稀疏，在多數病患中僅佔整�
 - train_class12.py：訓練 class1（心肌）與 class2（主動脈瓣）的分割模型。  
 - train_class3.py：針對 class3 鈣化病灶進行 tiny lesion segmentation 。  
 - train_class3_classifier.py：病人層級是否存在鈣化的分類模型。  
-- inference.py：多模型推論與最終分割結果融合。  
+- infer_and_dice.py：多模型推論與最終分割結果融合。  
 
 ---
 
